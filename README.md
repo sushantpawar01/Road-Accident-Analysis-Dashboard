@@ -6,7 +6,7 @@ This project involves a comprehensive analysis of road accident data for the yea
 ## 📂 Dataset Summary
 The analysis tracks a total of **144.4K accidents** and **195.7K casualties** for the current year (CY).
 
-### Key Dimensions Analyzed:
+## Key Dimensions Analyzed:
 * **Casualty Severity:** Fatal, Serious, and Slight casualties.
 * **Vehicle Type:** Cars, Bikes, Vans, Buses, Agricultural vehicles.
 * **Environmental Factors:** Road Surface, Weather Conditions, Light Conditions (Day/Dark).
